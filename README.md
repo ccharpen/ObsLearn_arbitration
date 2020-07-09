@@ -1,5 +1,6 @@
 # ObsLearn_arbitration
-Code to run task and analyses for study of arbitration between imitation and emulation during observational learning
+Code to run task and analyses for study of arbitration between imitation and emulation during observational learning.
+See https://osf.io/49ws3/ for raw behavioral data files and aggregate-level data (behavioral and fMRI summaries).
 
 ## 'task' folder
 The task was run with PsychoPy v.1.85 (https://www.psychopy.org/).
